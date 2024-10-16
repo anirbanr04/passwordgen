@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.pass {
+  height: 620px;
+  width: 50%;
+  border: 3px solid black;
+  margin: auto;
+  margin-top: 60px;
+  background-color: rgba(0, 255, 255, 0.363);
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.3rem;
+  color: rgb(45, 28, 62);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-bottom: 2px solid black ;
+  padding: 6px 0px;
+}
+
+.box{
+  height: 380px;
+  width: 70%;
+  /* border: 1px solid black; */
+  margin: auto;
+  margin-top: 50px;
+
+}
+
+.input{
+  margin: 2px 3px;
+  width: 70%;
+  padding: 12px 53px;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  text-align: left;
+
+}
+
+.check{
+  /* float: right; */
+  margin: 55px 25px;
+
+}
+.check input {
+
+ font-size: 1.2rem;
+ text-align: center;
+
+
+}
+
+.sym{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 33px 0px;
+  gap: 95px;
+
+}
+p{
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn2{
+  margin: -8px 88px;
+  width: 50%;
+  padding: 12px 10px;
+  border-radius: 5px;
+  
+  font-size: 1.1rem;
+  
+}
+
+.btn1{
+  padding: 15px 5px;
+  font-size: 0.9rem;
+  border-radius: 4px;
+border: none;
+}
+
